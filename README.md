@@ -2,7 +2,7 @@
 
 [Dash](http://kapeli.com/dash) is an API Documentation Browser and Code Snippet Manager for Mac OS X. This package is a docset that can be imported into Dash to provide quick and easy searching and navigation of the Cesium documentation offline.
 
-Dash also provides a dynamic workflow for searching your downloaded docsets via [Alfred](http://alfredapp.com), Launchbar, and has integration for many other tools as well. These two together make searching the Cesium documentation lightning fast. If you are a Window user, check out [Velocity](http://velocity.silverlakesoftware.com/). Velocity, similar to Dash, provides offline access to all of the same API documentation sets.
+Dash also provides a dynamic workflow for searching your downloaded docsets via [Alfred](http://alfredapp.com), Launchbar, and has integration for many other tools as well. These two together make searching the Cesium documentation lightning fast.
 
 ![Dash workflow for Alfred 2](http://dferg.us/media/AlfredCesium.png "Dash workflow for Alfred 2")
 
